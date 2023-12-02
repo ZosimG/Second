@@ -1,0 +1,3 @@
+[submodule "GabyshevZosim"]
+	path = GabyshevZosim
+	url = git@github.com:ZosimG/GabyshevZosim.git
